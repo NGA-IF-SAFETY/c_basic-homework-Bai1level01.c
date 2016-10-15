@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+void main()
+{
+    float a,cv,s;
+    
+    printf("Nhap do dai canh hinh vuong\n ");
+    
+    scanf("%f",&a);
+    
+    cv=a*4;
+    
+    printf("Chu vi hinh vuong la: cv=%0.2f",cv); 
+    
+    s=a*a;
+    
+    printf("Dien tich hinh vuong la:s=%0.2f",s);
+
+}
