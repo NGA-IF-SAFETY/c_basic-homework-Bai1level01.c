@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main()
+{
+float cv, r,s;
+printf("nhap ban kinh hinh tron \n");
+scanf("%f",&r);
+cv=2*3,14*r;
+printf("chu vi hinh tron la cv=%0.1f",cv);
+s=3,14*r*r;
+printf("dien tich hinh tron la s=%0.1f,s);
+}
